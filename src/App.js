@@ -1,10 +1,12 @@
 import "./App.css";
-import ReactIcons from "./components/ReactIcons";
+import ReactToastify from "./components/ReactToastify";
+// import ReactIcons from "./components/ReactIcons";
 
 function App() {
   return (
     <div className="App">
-      <ReactIcons />
+      {/* <ReactIcons /> */}
+      <ReactToastify />
     </div>
   );
 }
