@@ -1,6 +1,7 @@
 import "./App.css";
 import ReactModal from "./components/ReactModal";
 import ReactToastify from "./components/ReactToastify";
+import ReactToolTip from "./components/ReactToolTip";
 // import ReactIcons from "./components/ReactIcons";
 
 function App() {
@@ -8,7 +9,8 @@ function App() {
     <div className="App">
       {/* <ReactIcons /> */}
       {/* <ReactToastify /> */}
-      <ReactModal />
+      {/* <ReactModal /> */}
+      <ReactToolTip />
     </div>
   );
 }
