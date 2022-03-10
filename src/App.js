@@ -7,6 +7,7 @@ import ReactToolTip from "./components/ReactToolTip";
 function App() {
   return (
     <div className="App">
+      <h1>React Pracs</h1>
       {/* <ReactIcons /> */}
       {/* <ReactToastify /> */}
       {/* <ReactModal /> */}
